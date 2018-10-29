@@ -1,0 +1,59 @@
+body {
+  font-family: 'Aldrich', sans-serif;
+  background-color: black;
+}
+
+.container {
+  width: 100%;
+  height: 700px;
+  
+  
+}
+
+#content {
+  margin-left: 30%;
+  margin-top: 10%;
+  width: 50%;
+  border-radius: 10px;
+  
+}
+
+.numbers {
+  
+  margin-left: 10%;
+  margin-top: 3%;
+}
+
+
+
+.numbers button {
+  background-color: black;
+  color: gold;
+  margin: 5px;
+  padding: 30px;
+}
+
+#textArea {
+  width: 84%;
+  height: 90px;
+  margin-left: 3px;
+  margin-bottom: 10px;
+  font-size: 50pt;
+  text-align: right;
+  background-color: black;
+  color: gold;
+  
+}
+
+#enter {
+  width: 40%;
+}
+
+#btn0 {
+  width: 40%;
+}
+
+#clearEverything {
+  margin-left: 3px;
+  width: 75px;
+}
